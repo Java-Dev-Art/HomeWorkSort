@@ -1,4 +1,4 @@
-package org.example.Task1;
+package task1;
 
 public class InsertionSort {
     public char[] sort(char[] actual) {

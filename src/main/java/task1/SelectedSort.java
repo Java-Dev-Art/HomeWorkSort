@@ -1,4 +1,4 @@
-package org.example.Task1;
+package task1;
 
 public class SelectedSort {
     public char[] sort(char[] chars){
