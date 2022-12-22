@@ -1,10 +1,11 @@
 package test1;
 
-import org.example.Task1.BubbleSort;
+
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
+import task1.BubbleSort;
 
 public class BubbleSortTest {
     private static BubbleSort sort;
